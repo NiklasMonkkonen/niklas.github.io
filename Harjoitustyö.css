@@ -91,5 +91,8 @@ button {
     align-items: center;
     margin: auto;
     overflow-y: auto; 
-    max-height: 600px;
+    overflow-x: auto; 
+    max-height: 90vh; 
 }
+
+
