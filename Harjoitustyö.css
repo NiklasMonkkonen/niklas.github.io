@@ -4,6 +4,7 @@
     flex-direction: column !important;
     margin: 0 !important;
     padding: 0 !important;
+    overflow: hidden !important;
     }
     table {
         background-color: rgba(67, 108, 220, 0.493) !important;
