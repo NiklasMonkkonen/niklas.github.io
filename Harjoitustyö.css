@@ -10,10 +10,11 @@ html, body {
 table {
     background-color: rgba(67, 108, 220, 0.493) !important;
     height: auto !important;
-    width: 100% !important; 
     flex: 1 !important;
     border: 1px solid black;
     border-collapse: collapse;
+    width: 100% !important;
+    table-layout: fixed;
 }
 
 td {
@@ -94,5 +95,6 @@ button {
     overflow-x: auto; 
     max-height: 90vh; 
 }
+
 
 
